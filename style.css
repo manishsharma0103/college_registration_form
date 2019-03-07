@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(dip.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color: #696969;
+  text-align: center; 
+  text-decoration: none;
+}
+
+table{
+  font-family: Calibri;
+  opacity: 0.9; 
+  color:white; 
+  font-size: 15pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align: absolute; 
+  background-color: #2F4F4F; 
+  border-collapse: collapse; 
+  border: 2px solid navy
+}
+table.inner{
+  border: 0px;
+}
+table table{
+  border: 0px;
+}
